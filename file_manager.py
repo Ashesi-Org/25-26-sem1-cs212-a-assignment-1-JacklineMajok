@@ -7,7 +7,7 @@ Uses only standard library modules.
 """
 
 import os
-import sys
+
 
 
 def display_welcome():
